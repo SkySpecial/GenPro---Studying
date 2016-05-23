@@ -55,3 +55,5 @@
 5) Проблема с русскими символами:
 с. 259: ! Package babel Error: You haven't specified a language option. - log-файл
 See the inputenc package documentation for explanation.
+
+6) install-tl --version : шо за знаки такие, тире-тире, объясните!

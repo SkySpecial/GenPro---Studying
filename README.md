@@ -61,3 +61,5 @@
 See the inputenc package documentation for explanation.
 
 6) install-tl --version : шо за знаки такие, тире-тире, объясните!
+
+7) Почему у меня реализация TexLive установлена сразу и в /usr/share/texlive/... и в личное пространство: /Dima/TexLive/... ?

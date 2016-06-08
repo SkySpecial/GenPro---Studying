@@ -71,3 +71,5 @@ See the inputenc package documentation for explanation.
 9) Как подсчитать количество букв/символов в созданном тексте?
 
 10) Файл шрифта пишется для всех языков?
+
+11) Ошибка: \endcsname ?

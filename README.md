@@ -77,3 +77,5 @@ See the inputenc package documentation for explanation.
 10) Файл шрифта пишется для всех языков?
 
 11) Ошибка: \endcsname ?
+
+12) с.46 Почему в Tex'е пункт = 0,315 мм. А как же единые типографские стандарты?

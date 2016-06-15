@@ -90,5 +90,6 @@ See the inputenc package documentation for explanation.
 
 15) Вопрос с интервалом в абзацах с изменённым шрифтом. Странности?
 
-16) Конфликт команд: \textbf{\textmd slovo} - окрашивает только 1 букву в цвет внутренней команды.\par
+16) Конфликт команд: \textbf{\textmd slovo} - окрашивает только 1 букву в цвет внутренней команды.
+
 \textbf{\textmd\textmd slovo} - окраска полностью.

@@ -97,3 +97,9 @@ See the inputenc package documentation for explanation.
 \textbf{\textmd\textmd slovo} - окраска полностью в цвет внешней команды.
 
 17) с. 49: как учесть все лигатуры сразу в документе?
+
+18) Какая-то чётность/нечётность команды: \textbf{\textit \textit \textit \textit \textit slovo} - первая буква курсивом, 
+
+\textbf{\textit \textit \textit \textit slovo} - никакого курсива.
+
+\textbf{\textit \textit \textit slovo} - опять курсив.

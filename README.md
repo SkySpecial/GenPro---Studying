@@ -95,3 +95,5 @@ See the inputenc package documentation for explanation.
 16) Конфликт команд: \textbf{\textmd slovo} - окрашивает только 1 букву в цвет внутренней команды.
 
 \textbf{\textmd\textmd slovo} - окраска полностью в цвет внешней команды.
+
+17) с. 49: как учесть все лигатуры сразу в документе?

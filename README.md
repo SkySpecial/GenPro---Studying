@@ -105,3 +105,5 @@ See the inputenc package documentation for explanation.
 \textbf{\textit \textit \textit slovo} - опять курсив.
 
 19) Неполадки с цветом: почему в .dvi цвет (фон страницы) не отображается, а в .pdf да?
+
+20) Команда \pagecolor работает только на весь документ. Как сделать разный цвет на разных страницах?

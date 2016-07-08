@@ -119,3 +119,5 @@ See the inputenc package documentation for explanation.
 #Musescore
 
 1) Нет Selection Filter? Где значок копирайта? (С)? Ширина тактов?
+
+2) Score - партитура!

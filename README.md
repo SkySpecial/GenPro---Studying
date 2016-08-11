@@ -126,6 +126,8 @@ See the inputenc package documentation for explanation.
 
 33) Как сделать секционирование из 4 чисел? Больше?
 
+34) с.84: Не работают команды \pagestyle и \thispagestyle!
+
 #Musescore
 
 1) Нет Selection Filter? Где значок копирайта? (С)? Ширина тактов?

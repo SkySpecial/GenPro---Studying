@@ -134,6 +134,10 @@ See the inputenc package documentation for explanation.
 
 37) Очень личные и подробные комментарии транслятора к ошибкам и предупреждениям. Такое ощущение, что нам по почте переслали полусерьёзное-полудурашливое объяснение недоразумения. Как это осознать? Это плохо, или наоборот, высшая планка качества?
 
+Пример: I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
 #Musescore
 
 1) Нет Selection Filter? Где значок копирайта? (С)? Ширина тактов?

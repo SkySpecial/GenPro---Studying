@@ -138,6 +138,8 @@ See the inputenc package documentation for explanation.
 control sequence to too much text. How can we recover?
 My plan is to forget the whole thing and hope for the best.
 
+38) Ситуация со списками: с. 89. Если закрыть все выходные .pdf и .dvi, то максимум вложения списков - 5. С другой стороны, если оставить, то транслятор выдаёт ошибку, выходной файл как бы не проявляется, но изменения в нём происходят. Таким образом, можно организовать вложения, например, 7 уровня. 
+
 #Musescore
 
 1) Нет Selection Filter? Где значок копирайта? (С)? Ширина тактов?

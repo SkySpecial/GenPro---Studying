@@ -174,3 +174,7 @@ I'm forgetting what you said and using zero instead.
 #Язык запросов Yandex:
 
 1) Зачем они сделали идентичные операторы "-" "~~"?
+
+#REAPER
+
+1) Пока не ясно, input и output по отношению к компу или к устройству, подключаемому к компу?

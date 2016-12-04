@@ -178,3 +178,5 @@ I'm forgetting what you said and using zero instead.
 #REAPER
 
 1) Пока не ясно, input и output по отношению к компу или к устройству, подключаемому к компу?
+
+2)c.33: что за инвертирование фазы трека?
